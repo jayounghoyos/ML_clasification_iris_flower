@@ -1,0 +1,73 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+ENV.bak/
+
+# Configuración local de Jupyter
+.jupyter/
+.ipython/
+
+# Archivos de caché y logs
+*.log
+*.cache
+*.egg-info/
+*.eggs/
+
+# Archivos creados por herramientas de desarrollo
+*.swp
+*.swo
+*.idea/
+*.vscode/
+.DS_Store
+
+# Archivos de ejecución de Jupyter y kernels
+*.pid
+*.out
+*.err
+
+# Archivos de configuración de Anaconda
+*.conda
+*.env
+
+# Archivos de salida específicos del usuario
+*.h5
+*.sqlite
+*.db
+*.csv
+*.tsv
+
+# Modelos y datos grandes
+*.model
+*.ckpt
+*.weights
+*.tar.gz
+*.zip
+*.7z
+*.gz
+*.bz2
+
+# Archivos generados automáticamente
+*.bak
+*.tmp
+*.old
+
+# Salidas de gráficos o figuras
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Archivos de configuración de notebooks exportados
+*.nbconvert/
